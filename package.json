@@ -1,0 +1,16 @@
+{
+  "name": "clickfit",
+  "description": "Include Bootstrap CSS and JS via the jsDelivr CDN.",
+  "version": "0.0.0",
+  "private": true,
+  "stackblitz": {
+    "startCommand": "npm start"
+  },
+  "scripts": {
+    "start": "serve --listen 3000"
+  },
+  "dependencies": {
+    "sal.js": "^0.8.5",
+    "serve": "^14.1.2"
+  }
+}
